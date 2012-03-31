@@ -1,4 +1,3 @@
-require "rubygems"
 require "zip/zipfilesystem"
 
 module Redcar
